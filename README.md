@@ -1,1 +1,1 @@
-JavaScript - The Complete Guide 2025 (Beginner + Advanced)
+JavaScript - The Complete Guide 2025 (Beginner + Advanced);
