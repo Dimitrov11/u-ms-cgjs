@@ -1,0 +1,9 @@
+* We went through debugging:
+    - in the browser —Chrome
+    — in the IDE (VS Code)
+
+* We also learned about some errors and how to read the messages they return.
+
+* We explored also:
+    - how to "Google" correctly
+    - MDN documentaion
